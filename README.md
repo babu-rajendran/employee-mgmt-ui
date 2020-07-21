@@ -1,4 +1,7 @@
-# EmployeeMgmtUi
+# Employee Management UI
+
+This project implements the steps as described in the tutorial given below: 
+https://www.javaguides.net/2019/06/spring-boot-angular-7-crud-example-tutorial.html
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
